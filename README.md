@@ -1,2 +1,2 @@
-# poi_api_forwarder
+# poi-plugin-forwarder
 A plugin to forward api captured by poi
